@@ -1,1 +1,3 @@
 This is the code that will merge with a successful fastForward
+
+This is the code that I'm adding with a successful fastForward
