@@ -1,1 +1,1 @@
-I am adding this text on the main branch so that I can test a merge with no conflict.
+I am changing this text on the new branch so that I can test a merge with no conflict.
